@@ -28,7 +28,7 @@ requirements:
     - psygnal
     - pyqtgraph
     - napari
-    - careamics >=0.0.19,<=0.1.0
+    - careamics >=0.2.0
     - tensorboard
     - careamics-portfolio
     - numcodecs <0.16
